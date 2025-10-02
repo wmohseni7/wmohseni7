@@ -3,6 +3,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=wmohseni7&show_icons=true&theme=radical" width="500" height="200"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wmohseni7&theme=dark" width="480" height="200"/>
 </p>
+<div style="display:flex; align-items:center; justify-content:center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=wmohseni7&show_icons=true&theme=radical" width="500"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wmohseni7&theme=dark" width="480"/>
+</div>
 <!-- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=wmohseni7&show_icons=true&theme=radical&width=400)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wmohseni7&theme=dark&width=380) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wmohseni7&layout=compact)
