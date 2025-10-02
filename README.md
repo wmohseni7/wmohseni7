@@ -5,11 +5,11 @@
 </div> -->
 <table align="center">
   <tr>
-    <td>
+    <td height="100%">
       <img src="https://github-readme-stats.vercel.app/api?username=wmohseni7&show_icons=true&theme=radical" width="380"/>
     </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=wmohseni7&theme=dark" width="380" height="130%"/>
+    <td height="100%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=wmohseni7&theme=dark" width="380"/>
     </td>
   </tr>
 </table>
