@@ -9,7 +9,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/main/assets/images/09c62903beeba336dc9da76eb5c9a107.gif" width="300px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/main/assets/images/09c62903beeba336dc9da76eb5c9a107.gif" width="270px"/>
   
 ### 🧐 More About Me:
 
