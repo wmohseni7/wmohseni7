@@ -1,4 +1,4 @@
-![Banner](https://img.shields.io/badge/Wali Mohseni-GitHub_Profile-blue?style=for-the-badge&logo=github)
+![Banner](https://img.shields.io/badge/wmohseni7-GitHub_Profile-blue?style=for-the-badge&logo=github)
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=wmohseni7&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wmohseni7&theme=dark)
