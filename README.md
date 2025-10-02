@@ -3,3 +3,6 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wmohseni7&theme=dark)
 ![Profile Views](https://komarev.com/ghpvc/?username=wmohseni7)
 ![trophy](https://github-profile-trophy.vercel.app/?username=wmohseni7&theme=onedark)
+![GitLab pipeline status](https://img.shields.io/gitlab/pipeline/<wmohseni>/<PROJECT_NAME>)
+![GitLab stars](https://img.shields.io/gitlab/stars/<wmohseni>/<PROJECT_NAME>)
+![GitLab issues](https://img.shields.io/gitlab/issues/<wmohseni>/<PROJECT_NAME>)
