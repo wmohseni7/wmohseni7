@@ -3,7 +3,19 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=wmohseni7&show_icons=true&theme=radical" width="50%"/>
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=wmohseni7&theme=dark" width="49%"/>
 </div> -->
-<table align="center">
+
+<table align="center" style="border:0; border-collapse: collapse;">
+  <tr>
+    <td style="border:0; padding:0 10px 0 0;">
+      <img src="https://github-readme-stats.vercel.app/api?username=wmohseni7&show_icons=true&theme=radical" width="380"/>
+    </td>
+    <td style="border:0; padding:0 0 0 10px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=wmohseni7&theme=dark" width="380"/>
+    </td>
+  </tr>
+</table>
+
+<!-- <table align="center">
   <tr>
     <td style="padding-right:10px;">
       <img src="https://github-readme-stats.vercel.app/api?username=wmohseni7&show_icons=true&theme=radical" width="380"/>
@@ -12,7 +24,7 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=wmohseni7&theme=dark" width="380"/>
     </td>
   </tr>
-</table>
+</table> -->
 
 <!-- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=wmohseni7&show_icons=true&theme=radical&width=400)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wmohseni7&theme=dark&width=380) -->
