@@ -1,7 +1,7 @@
 ![My Banner](https://github.com/wmohseni7/wmohseni7/blob/main/assets/images/45044791_9105998.png)
 <div align="">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=wmohseni7&show_icons=true&theme=radical" width="400"/>
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=wmohseni7&theme=dark" width="400"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=wmohseni7&show_icons=true&theme=radical" width="420"/>
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=wmohseni7&theme=dark" width="420"/>
 </div>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wmohseni7&layout=compact)
 <!-- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=wmohseni7&show_icons=true&theme=radical&width=400)
