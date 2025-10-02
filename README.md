@@ -4,6 +4,10 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=wmohseni7&show_icons=true&theme=radical" width="49%"/>
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=wmohseni7&theme=dark" width="49%"/>
 </div>
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=wmohseni7&show_icons=true&theme=radical" width="380"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wmohseni7&theme=dark" width="380"/>
+</div>
 
 <!-- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=wmohseni7&show_icons=true&theme=radical&width=400)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wmohseni7&theme=dark&width=380) -->
