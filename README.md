@@ -9,7 +9,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=wmohseni7&show_icons=true&theme=radical" width="380"/>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=wmohseni7&theme=dark" width="380" height="115%"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=wmohseni7&theme=dark" width="380" height="120%"/>
     </td>
   </tr>
 </table>
