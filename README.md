@@ -1,5 +1,5 @@
 ![My Banner](https://github.com/wmohseni7/wmohseni7/blob/main/assets/images/45044791_9105998.png)
-<div align="center">
+<div align="">
   <img src="https://github-readme-stats.vercel.app/api?username=wmohseni7&show_icons=true&theme=radical" width="450"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wmohseni7&theme=dark" width="450"/>
 </div>
