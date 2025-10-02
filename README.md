@@ -1,6 +1,6 @@
 ![My Banner](https://github.com/wmohseni7/wmohseni7/blob/main/assets/images/45044791_9105998.png)
 
-<div style="display: flex; justify-content: center; align-items: left; gap: 10px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; align-items: left; flex-wrap: wrap;">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=wmohseni7&show_icons=true&theme=radical" width="49%"/>
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=wmohseni7&theme=dark" width="49%"/>
 </div>
