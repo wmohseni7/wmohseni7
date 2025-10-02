@@ -2,7 +2,3 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=wmohseni7&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wmohseni7&theme=dark)
 ![Profile Views](https://komarev.com/ghpvc/?username=wmohseni7)
-![trophy](https://github-profile-trophy.vercel.app/?username=wmohseni7&theme=onedark)
-![GitLab pipeline status](https://img.shields.io/gitlab/pipeline/<wmohseni>/<t3-sci25b-t3-a>)
-![GitLab stars](https://img.shields.io/gitlab/stars/<wmohseni>/<t3-sci25b-t3-a>)
-![GitLab issues](https://img.shields.io/gitlab/issues/<wmohseni>/<t3-sci25b-t3-a>)
