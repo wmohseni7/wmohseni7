@@ -86,7 +86,7 @@ I love building web applications but never limit myself to one area — I’m al
 
 
 ### 📊 Github Stats
-| [![Mes stats GitHub](https://github-readme-stats.vercel.app/api?username=wmohseni7&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) | [![Streak](https://streak-stats.demolab.com?user=wmohseni7&theme=transparent)](https://git.io/streak-stats) |
+[![Mes stats GitHub](https://github-readme-stats.vercel.app/api?username=wmohseni7&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) | [![Streak](https://streak-stats.demolab.com?user=wmohseni7&theme=transparent)](https://git.io/streak-stats)
 |---|---|
 <br>
 
