@@ -29,7 +29,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://php.net/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/main/assets/images/languages/PHP-logo-lossless.webp" alt="php" height="42px"/> </a> 
 <a href="https://laravel.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/main/assets/images/languages/png-transparent-laravel-hd-logo-thumbnail.png" alt="laravel" height="42px"/> </a> 
 <a href="https://unity.com/" target="_blank"><img align="left" alt="unity" height ="42px" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/main/assets/images/languages/unity.png"></a>
-<a href="https://./" target="_blank"><img align="left" alt="C#" height ="42px" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/main/assets/images/languages/C#.png"></a>
+<a href="https://./" target="_blank"><img align="left" alt="C#" height ="42px" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/main/assets/images/languages/C#.jpg"></a>
 
 
 <br>
