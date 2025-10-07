@@ -26,8 +26,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 
 ### 🔨 Languages and Tools:
-<a href="https://php.net/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/main/assets/images/languages/PHP-logo-lossless.webp" alt="pytorch" height="42px"/> </a> 
-<a href="https://laravel.com/"  src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/main/assets/images/languages/45044791_9105998.png" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/wmohseni7/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
+<a href="https://php.net/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/main/assets/images/languages/PHP-logo-lossless.webp" alt="php" height="42px"/> </a> 
+<a href="https://laravel.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/main/assets/images/languages/45044791_9105998.png" alt="laravel" height="42px"/> </a> 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/wmohseni7/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 <a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/wmohseni7/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
 <a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/wmohseni7/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
