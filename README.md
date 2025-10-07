@@ -39,6 +39,10 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 [![Mes stats GitHub](https://github-readme-stats.vercel.app/api?username=wmohseni7&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 [![Mes stats GitHub](https://github-readme-stats.vercel.app/api?username=wmohseni7&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
+
+[![Stats Overview](https://raw.githubusercontent.com/wmohseni7/github-stats-transparent/output/generated/overview.svg)](https://github.com/wmohseni7/github-stats-transparent)
+[![Most Used Languages](https://raw.githubusercontent.com/wmohseni7/github-stats-transparent/output/generated/languages.svg)](https://github.com/wmohseni7/github-stats-transparent)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wmohseni7&layout=compact&theme=transparent)
 <!--[(https://github.com/anuraghazra/github-readme-stats)]>
 <!-- <a href='https://github.com/wmohseni7/github-stats-transparent'>
