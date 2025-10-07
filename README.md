@@ -1,4 +1,4 @@
-<!--![My Banner](https://github.com/wmohseni7/wmohseni7/blob/main/assets/images/45044791_9105998.png)-->
+![My Banner](https://github.com/wmohseni7/wmohseni7/blob/main/assets/images/45044791_9105998.png)
 ## Hey 👋, I'm Wali Mohseni (Enigma)!
 <!-- <a href='https://www.linkedin.com/in/wmohseni7/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/jharahul98/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
