@@ -26,13 +26,10 @@ I love building web applications but never limit myself to one area — I’m al
 <br>
 
 ### 🔨 Languages and Tools:
-<!-- <a href="https://php.net/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/main/assets/images/languages/PHP-logo-lossless.webp" alt="php" height="42px"/> </a> 
-<a href="https://laravel.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/main/assets/images/languages/png-transparent-laravel-hd-logo-thumbnail.png" alt="laravel" height="42px"/> </a> 
-<a href="https://unity.com/" target="_blank"><img align="left" alt="unity" height ="42px" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/main/assets/images/languages/unity.png"></a>
-<a href="#" target="_blank"><img align="left" alt="C#" height ="42px" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/main/assets/images/languages/net-framework-c-net-core-software-framework-mono-studio-thumbnail.jpg"></a>
-<a href="#" target="_blank"><img align="left" alt="bootstrap" height ="42px" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/main/assets/images/languages/net-framework-c-net-core-software-framework-mono-studio-thumbnail.jpg"></a>
-<a href="#" target="_blank"><img align="left" alt="jquery" height ="42px" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/main/assets/images/languages/net-framework-c-net-core-software-framework-mono-studio-thumbnail.jpg"></a>
-<p align="left"> -->
+
+<br>
+<br>
+
   <!-- PHP -->
   <a href="https://www.php.net/" target="_blank">
     <img align="left" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/main/assets/images/languages/php.png" alt="PHP" height="42px"/>
