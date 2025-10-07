@@ -94,10 +94,10 @@ I love building web applications but never limit myself to one area — I’m al
 </a>
 
 <div style="display: flex; gap: 10px; align-items: center;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats" align:left>
     <img src="https://github-readme-stats.vercel.app/api?username=wmohseni7&show_icons=true&theme=transparent" alt="Mes stats GitHub" />
   </a>
-  <a href="https://git.io/streak-stats">
+  <a href="https://git.io/streak-stats" align:right>
     <img src="https://streak-stats.demolab.com?user=wmohseni7&theme=transparent" alt="Streak" />
   </a>
 </div>
