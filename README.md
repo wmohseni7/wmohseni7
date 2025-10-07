@@ -102,6 +102,10 @@ I love building web applications but never limit myself to one area — I’m al
   </a>
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=wmohseni7&show_icons=true&theme=transparent" alt="Mes stats GitHub" width="48%" /> 
+<img src="https://streak-stats.demolab.com?user=wmohseni7&theme=transparent" alt="Streak" width="48%" />
+
+
 
 
 
