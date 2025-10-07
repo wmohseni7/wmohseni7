@@ -20,6 +20,10 @@ I love building web applications but never limit myself to one area — I’m al
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 
 <br>
+<br>
+<br>
+<br>
+<br>
 
 ### 🔨 Languages and Tools:
 <!-- <a href="https://php.net/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/main/assets/images/languages/PHP-logo-lossless.webp" alt="php" height="42px"/> </a> 
