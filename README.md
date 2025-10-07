@@ -56,6 +56,5 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 
 ### 🛠️ My Projects
-<a href="https://github.com/wmohseni7/ConstructionRealStateAgency" target="_blank"> <img alt="artistify" src="https://github.com/wmohseni7/wmohseni7/tree/main/assets/images/projects/construction.png" height="68" align="left"> </a>
-<a href="https://wmohseni7.github.io/sheets-database/" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
-
+<a href="https://github.com/wmohseni7/ConstructionRealStateAgency" target="_blank"> <img alt="ConstructionRealStateAgency" src="https://github.com/wmohseni7/wmohseni7/tree/main/assets/images/projects/construction.png" height="68" align="left"> </a>
+<a href="https://github.com/wmohseni7/ConstructionRealStateAgency" target="_blank"> <img alt="ConstructionRealStateAgency" src="https://github.com/wmohseni7/wmohseni7/tree/main/assets/images/projects/construction.png" height="68" align="left"> </a>
