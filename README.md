@@ -1,5 +1,5 @@
 ![My Banner](https://github.com/wmohseni7/wmohseni7/blob/main/assets/images/45044791_9105998.png)
-## Hey 👋, I'm Wali Mohseni (Enigma)!
+## Hey 👋, I'm Enigma!
 <!-- <a href='https://www.linkedin.com/in/wmohseni7/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/jharahul98/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
 <a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a> -->
@@ -13,15 +13,11 @@ I love building web applications but never limit myself to one area — I’m al
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
-- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/wmohseni7/sheets-database)
-- 🌱 &nbsp; I’m currently learning Typescript; 
+- 🔭 &nbsp; I’m student in université de Strasbourg, IUT Robert Schuman
+- 🤝 &nbsp; I’m currently collaborating on a unity game project for the third semester of my studies
+- 🌱 &nbsp; I’m currently learning java; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/wmohseni7?tab=repositories)
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/wmohseni7/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
-- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/wmohseni7) to see the book I have read
 
 <br>
 
