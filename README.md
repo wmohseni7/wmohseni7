@@ -1,8 +1,5 @@
 ![My Banner](https://github.com/wmohseni7/wmohseni7/blob/main/assets/images/45044791_9105998.png)
 ## Hey 👋, I'm Enigma!
-<!-- <a href='https://www.linkedin.com/in/wmohseni7/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com/jharahul98/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
-<a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a> -->
 
 👋 Hi, I’m a developer who strives to make the most of every project.
 I love building web applications but never limit myself to one area — I’m always exploring new technologies and improving my skills.
@@ -96,20 +93,11 @@ I love building web applications but never limit myself to one area — I’m al
 
 
 
-<!--[(https://github.com/anuraghazra/github-readme-stats)]>
-<!-- <a href='https://github.com/wmohseni7/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/wmohseni7/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/wmohseni7/github-stats-transparent/output/generated/languages.svg)
-
-</a> -->
 
 <br>
 
 ### 🛠️ My Projects
 <a href="https://github.com/wmohseni7/ConstructionRealStateAgency" target="_blank">
-  <img alt="ConstructionRealStateAgency" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/main/assets/images/projects/construction.png" height="48px">
+  <img alt="ConstructionRealStateAgency" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/main/assets/images/projects/construction.png" height="100px">
 </a>
-<a href="https://github.com/wmohseni7/ConstructionRealStateAgency" target="_blank">
-  <img alt="ConstructionRealStateAgency" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/main/assets/images/projects/construction.png" height="48px">
-</a>
+
