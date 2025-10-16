@@ -4,8 +4,8 @@
 ## Hey 👋, I'm Enigma!
 
 👋 Hi, I’m a developer who strives to make the most of every project.
-I love building web applications but never limit myself to one area — I’m always exploring new technologies and improving my skills.
-For my fellow Français et Françaises:
+I love building web applications but never limit myself to one area — I’m always exploring new technologies and improving my skills.<br/>
+For my fellow Français et Françaises:<br/>
 👋 Bonjour, je suis développeur et j'essaie d'optimiser chaque projet. J'adore créer des applications web, mais je ne me limite jamais à un seul domaine : j'explore constamment de nouvelles technologies et j'améliore mes compétences.
 <br/>
 <br/>
