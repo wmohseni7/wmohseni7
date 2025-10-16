@@ -12,7 +12,6 @@ I love building web applications but never limit myself to one area — I’m al
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m student in université de Strasbourg, IUT Robert Schuman
 - 🤝 &nbsp; I’m currently collaborating on a unity game project for the third semester of my studies
 - 🌱 &nbsp; I’m currently learning java; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/wmohseni7?tab=repositories)
