@@ -1,4 +1,4 @@
-[Switch to Dark Mode 🌙](https://github.com/wohseni7/wmohseni7/README2.md)
+[View in French](https://github.com/wmohseni7/wmohseni7/blob/main/README2.md)
 <!--![My Banner](https://github.com/wmohseni7/wmohseni7/blob/main/assets/images/banner.gif)-->
 ![My Banner](https://github.com/wmohseni7/wmohseni7/blob/main/assets/images/banner2.gif)
 <!-- <img align="right" alt="GIF" src="[https://raw.githubusercontent.com/wmohseni7/wmohseni7/blob/main/assets/images/banner.gif" width="430px"/> -->
