@@ -14,7 +14,7 @@ I love building web applications but never limit myself to one area — I’m al
 
 - 🤝 &nbsp; I’m currently collaborating on a unity game project for the third semester of my studies
 - 🌱 &nbsp; I’m currently learning java; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/wmohseni7?tab=repositories)
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/wmohseni7)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 
 <br>
