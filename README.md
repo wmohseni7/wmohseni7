@@ -91,8 +91,6 @@ J'adore créer des applications web, mais je ne me limite jamais à un seul doma
 | [![Mes stats GitHub](https://github-readme-stats.vercel.app/api?username=wmohseni7&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) | [![GitHub Streak](https://streak-stats.demolab.com?user=wmohseni7&theme=dark&hide_border=true&border_radius=10)](https://git.io/streak-stats) |
 |---|---|
 
-|---|---|
-
 <br>
 
 ### 🛠️ Mes projets
