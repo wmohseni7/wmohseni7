@@ -1,10 +1,11 @@
 <!--![My Banner](https://github.com/wmohseni7/wmohseni7/blob/main/assets/images/banner.gif)-->
 ![My Banner](https://github.com/wmohseni7/wmohseni7/blob/main/assets/images/banner2.gif)
 <!-- <img align="right" alt="GIF" src="[https://raw.githubusercontent.com/wmohseni7/wmohseni7/blob/main/assets/images/banner.gif" width="430px"/> -->
-## Hey 👋, I'm Enigma!
+## Salut 👋, je suis Enigma !
 
-👋 Hi, I’m a developer who strives to make the most of every project.
-I love building web applications but never limit myself to one area — I’m always exploring new technologies and improving my skills.
+Bonjour, je suis développeur et je m'efforce de tirer le meilleur parti de chaque projet.
+
+J'adore créer des applications web, mais je ne me limite jamais à un seul domaine : j'explore constamment de nouvelles technologies et je perfectionne mes compétences.
 <br/>
 <br/>
 
@@ -12,10 +13,10 @@ I love building web applications but never limit myself to one area — I’m al
   
 ### 🧐 More About Me:
 
-- 🤝 &nbsp; I’m currently collaborating on a unity game project for the third semester of my studies
-- 🌱 &nbsp; I’m currently learning java; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/wmohseni7?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 🤝 &nbsp; Je travaille actuellement sur un projet de jeu Unity dans le cadre de mon troisième semestre d'études.
+- 🌱 &nbsp; J'apprends actuellement le Java ;
+- 👨🏻‍💻 &nbsp; Mes projets personnels sont disponible sur: [Github](https://github.com/wmohseni7?tab=repositories)
+- 💬 &nbsp; N'hésitez pas à me poser des questions sur tout ce qui touche à la technologie, je serai ravi de vous aider;
 
 <br>
 <br>
@@ -23,7 +24,7 @@ I love building web applications but never limit myself to one area — I’m al
 <br>
 <br>
 
-### 🔨 Languages and Tools:
+### 🔨 langages et outils:
 
 <br>
 <br>
@@ -86,13 +87,13 @@ I love building web applications but never limit myself to one area — I’m al
 <br>
 
 
-### 📊 Github Stats
+### 📊 Stats Github 
 [![Mes stats GitHub](https://github-readme-stats.vercel.app/api?username=wmohseni7&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) | [![Streak](https://streak-stats.demolab.com?user=wmohseni7&theme=transparent)](https://git.io/streak-stats)
 |---|---|
 
 <br>
 
-### 🛠️ My Projects
+### 🛠️ Mes projets
 <a href="https://github.com/wmohseni7/ConstructionRealStateAgency" target="_blank">
   <img alt="ConstructionRealStateAgency" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/main/assets/images/projects/construction.png" height="100px">
 </a>
