@@ -88,7 +88,7 @@ J'adore créer des applications web, mais je ne me limite jamais à un seul doma
 
 
 ### 📊 Stats Github 
-| [![Mes stats GitHub](https://github-readme-stats.vercel.app/api?username=wmohseni7&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) |  <img src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=wmohseni7=true&theme=dark&hide=599200">|
+| [![Mes stats GitHub](https://github-readme-stats.vercel.app/api?username=wmohseni7&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) | <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Ahtisham-1214&theme=omni&hide_border=true&sideNums=e8df7a&fire=e8df7a&dates=e8df7a"><br>|
 |---|---|
 
 <br>
