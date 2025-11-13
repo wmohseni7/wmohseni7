@@ -88,10 +88,10 @@ J'adore créer des applications web, mais je ne me limite jamais à un seul doma
 
 
 ### 📊 Stats Github 
-| [![Mes stats GitHub](https://github-readme-stats.vercel.app/api?username=wmohseni7&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Ahtisham-1214&theme=omni&hide_border=true&sideNums=e8df7a&fire=e8df7a&dates=e8df7a"><br> |
+| <img src="https://github-readme-stats-ten-olive-80.vercel.app/api/top-langs/?username=Ahtisham-1214&theme=omni&include_all_commits=true&count_private=true&hide_border=true&layout=donut&custom_title=Ahtisham's%20Most%20Used%20Languages&text_color=e8df7a"><img src="https://github-readme-stats-ten-olive-80.vercel.app/api?username=Ahtisham-1214&show_icons=f&line_height=30&rank_icon=github&theme=omni&hide_border=true&text_color=e8df7a"><br> | <img src="https://github-readme-streak-stats-eight.vercel.app/?user=wmohseni7&theme=omni&hide_border=true&sideNums=e8df7a&fire=e8df7a&dates=e8df7a"><br> |
 |---|---|
 
-
+[![Mes stats GitHub](https://github-readme-stats.vercel.app/api?username=wmohseni7&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wmohseni7&theme=transparent&hide_border=true&border_radius=10)](https://github.com/DenverCoder1/github-readme-streak-stats)
 <br>
 
