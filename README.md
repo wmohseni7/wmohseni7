@@ -39,20 +39,8 @@ J'adore créer des applications web, mais je ne me limite jamais à un seul doma
 
 ### 📊 Stats Github 
 
-|![GitHub stats](https://github-readme-stats-mu-taupe.vercel.app/api?username=wmohseni7&hide_border=true&show_icons=true&theme=tokyonight&border_radius=10) | [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=wmohseni7&theme=tokyonight&hide_border=true&border_radius=10&card_width=500&card_height=200&hide_current_streak=true)](https://git.io/streak-stats)|
+|![GitHub stats](https://github-readme-stats-mu-taupe.vercel.app/api?username=wmohseni7&hide_border=true&show_icons=true&theme=cobalt&border_radius=10) | [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=wmohseni7&theme=tokyonight&hide_border=true&border_radius=10&card_width=500&card_height=200&hide_current_streak=true)](https://git.io/streak-stats)|
 |---|---| 
-
-<p align= "center">
-  
-  ![GitHub stats](https://github-readme-stats-mu-taupe.vercel.app/api?username=wmohseni7&show_icons=true&theme=dracula&card_height=200&card_width=500)
-  [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=wmohseni7&theme=dracula&card_width=500&card_height=195&hide_current_streak=true)](https://git.io/streak-stats)
-  
-</p>
-
-
-
-
-
 
 
 <br>
