@@ -42,8 +42,8 @@ J'adore créer des applications web, mais je ne me limite jamais à un seul doma
 |![GitHub stats](https://github-readme-stats-mu-taupe.vercel.app/api?username=wmohseni7&hide_border=true&show_icons=true&theme=bear&border_radius=0&card_height=210&card_width=500) | [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=wmohseni7&theme=bear&hide_border=true&border_radius=0&card_width=500&card_height=200)](https://git.io/streak-stats)|
 |---|---| 
 
-![GitHub stats](https://github-readme-stats-mu-taupe.vercel.app/api?username=wmohseni7&hide_border=true&show_icons=true&theme=bear&border_radius=0&card_height=200&card_width=400)
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=wmohseni7&theme=bear&hide_border=true&border_radius=0&card_width=490&card_height=200)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats-mu-taupe.vercel.app/api?username=wmohseni7&hide_border=true&show_icons=true&theme=bear&border_radius=0&card_height=200&card_width=500)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=wmohseni7&theme=bear&hide_border=true&border_radius=0&card_width=500&card_height=200)](https://git.io/streak-stats)
 
 
 <br>
