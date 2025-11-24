@@ -29,7 +29,7 @@ J'adore créer des applications web, mais je ne me limite jamais à un seul doma
 <br>
 <br>
     
-  <img align="center" [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,c,cs,php,unity,laravel,jquery,java)](https://skillicons.dev)>
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,c,cs,php,unity,laravel,jquery,java)](https://skillicons.dev)
 
 
 <br>
@@ -41,9 +41,8 @@ J'adore créer des applications web, mais je ne me limite jamais à un seul doma
 | [![Mes stats GitHub](https://github-readme-streak-stats-eight.vercel.app)] | <img src="https://github-readme-streak-stats-eight.vercel.app/?user=wmohseni7&theme=transparent&hide_border=true&sideNums=e8df7a&fire=e8df7a&dates=e8df7a"><br> |
 |---|---| 
 
-https://streak-stats.demolab.com/api?username=wmohseni7&show_icons=true&theme=dark
 
-| [![GitHub stats](https://github-readme-stats-mu-taupe.vercel.app/api?username=wmohseni7&show_icons=true&theme=dracula&border_radius=50) | [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=wmohseni7&theme=transparent&border_radius=50&card_width=500&card_height=200&hide_current_streak=true)](https://git.io/streak-stats)|
+| [![GitHub stats](https://github-readme-stats-mu-taupe.vercel.app/api?username=wmohseni7&show_icons=true&theme=dracula&border_radius=50) | [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=wmohseni7&theme=dracula&border_radius=50&card_width=500&card_height=200&hide_current_streak=true)](https://git.io/streak-stats)|
 |---|---| 
 
 
