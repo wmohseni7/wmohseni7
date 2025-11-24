@@ -30,10 +30,7 @@ J'adore créer des applications web, mais je ne me limite jamais à un seul doma
 <br>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <br>
       [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,c,cs,php,unity,laravel,jquery,java)](https://skillicons.dev)
-  </a>
 </p>
 <br>
 <br>
