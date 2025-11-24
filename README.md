@@ -93,7 +93,7 @@ J'adore créer des applications web, mais je ne me limite jamais à un seul doma
 
 https://streak-stats.demolab.com/api?username=wmohseni7&show_icons=true&theme=dark
 
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) | [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=wmohseni7&theme=transparent&border_radius=50&card_width=500&card_height=200&hide_current_streak=true)](https://git.io/streak-stats)|
+|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wmohseni7)](https://github.com/anuraghazra/github-readme-stats) | [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=wmohseni7&theme=transparent&border_radius=50&card_width=500&card_height=200&hide_current_streak=true)](https://git.io/streak-stats)|
 |---|---| 
 
 
