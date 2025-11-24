@@ -29,6 +29,9 @@ J'adore créer des applications web, mais je ne me limite jamais à un seul doma
 <br>
 <br>
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,c#,unity,laravel,bootstrap,jquery,java)](https://skillicons.dev)
+
+
   <!-- PHP -->
   <a href="https://www.php.net/" target="_blank">
     <img align="left" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/main/assets/images/languages/php.png" alt="PHP" height="42px"/>
@@ -93,7 +96,7 @@ J'adore créer des applications web, mais je ne me limite jamais à un seul doma
 
 https://streak-stats.demolab.com/api?username=wmohseni7&show_icons=true&theme=dark
 
-|[![GitHub stats](https://github-readme-stats-mu-taupe.vercel.app/api?username=wmohseni7&show_icons=true&theme=dracula&border_radius=50) | [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=wmohseni7&theme=transparent&border_radius=50&card_width=500&card_height=200&hide_current_streak=true)](https://git.io/streak-stats)|
+| [![GitHub stats](https://github-readme-stats-mu-taupe.vercel.app/api?username=wmohseni7&show_icons=true&theme=dracula&border_radius=50) | [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=wmohseni7&theme=transparent&border_radius=50&card_width=500&card_height=200&hide_current_streak=true)](https://git.io/streak-stats)|
 |---|---| 
 
 
