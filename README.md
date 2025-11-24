@@ -39,7 +39,7 @@ J'adore créer des applications web, mais je ne me limite jamais à un seul doma
 
 ### 📊 Stats Github 
 
-|![GitHub stats](https://github-readme-stats-mu-taupe.vercel.app/api?username=wmohseni7&hide_border=true&show_icons=true&theme=transparent&border_radius=10) | [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=wmohseni7&theme=transparent&hide_border=true&border_radius=10&card_width=500&card_height=200&hide_current_streak=true)](https://git.io/streak-stats)|
+|![GitHub stats](https://github-readme-stats-mu-taupe.vercel.app/api?username=wmohseni7&hide_border=true&show_icons=true&theme=merko&border_radius=10) | [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=wmohseni7&theme=merko&hide_border=true&border_radius=10&card_width=500&card_height=200&hide_current_streak=true)](https://git.io/streak-stats)|
 |---|---| 
 
 <p align= "center">
