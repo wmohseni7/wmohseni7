@@ -1,7 +1,7 @@
 <!--![My Banner](https://github.com/wmohseni7/wmohseni7/blob/main/assets/images/banner.gif)-->
 ![My Banner](https://github.com/wmohseni7/wmohseni7/blob/main/assets/images/banner2.gif)
 <!-- <img align="right" alt="GIF" src="[https://raw.githubusercontent.com/wmohseni7/wmohseni7/blob/main/assets/images/banner.gif" width="430px"/> -->
-## Salut 👋, je suis Enigma !
+## Salut, je suis Enigma !
 
 Bonjour, je suis développeur et je m'efforce de tirer le meilleur parti de chaque projet.
 
