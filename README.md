@@ -38,11 +38,8 @@ J'adore créer des applications web, mais je ne me limite jamais à un seul doma
 
 
 ### 📊 Stats Github 
-| [![Mes stats GitHub](https://github-readme-streak-stats-eight.vercel.app)] | <img src="https://github-readme-streak-stats-eight.vercel.app/?user=wmohseni7&theme=transparent&hide_border=true&sideNums=e8df7a&fire=e8df7a&dates=e8df7a"><br> |
-|---|---| 
 
-
-|![GitHub stats](https://github-readme-stats-mu-taupe.vercel.app/api?username=wmohseni7&show_icons=true&theme=dracula&border_radius=10) | [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=wmohseni7&theme=dracula&border_radius=10&card_width=500&card_height=200&hide_current_streak=true)](https://git.io/streak-stats)|
+|![GitHub stats](https://github-readme-stats-mu-taupe.vercel.app/api?username=wmohseni7&hide_border=true&show_icons=true&theme=dracula&border_radius=10) | [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=wmohseni7&theme=dracula&hide_border=true&border_radius=10&card_width=500&card_height=200&hide_current_streak=true)](https://git.io/streak-stats)|
 |---|---| 
 
 <p align= "center">
