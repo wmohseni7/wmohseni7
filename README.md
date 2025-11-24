@@ -29,61 +29,7 @@ J'adore créer des applications web, mais je ne me limite jamais à un seul doma
 <br>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,c,php,cs,unity,laravel,jquery,java)](https://skillicons.dev)
-
-
-  <!-- PHP -->
-  <a href="https://www.php.net/" target="_blank">
-    <img align="left" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/main/assets/images/languages/php.png" alt="PHP" height="42px"/>
-  </a>
-
-  <!-- C# -->
-  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank">
-    <img align="left" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/main/assets/images/languages/csharp.png" alt="C#" height="42px"/>
-  </a>
-
-  <!-- Unity -->
-  <a href="https://unity.com/" target="_blank">
-    <img align="left" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/main/assets/images/languages/unity.png" alt="Unity" height="42px"/>
-  </a>
-
-  <!-- Laravel -->
-  <a href="https://laravel.com/" target="_blank">
-    <img align="left" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/main/assets/images/languages/laravel.png" alt="Laravel" height="42px"/>
-  </a>
-
-  <!-- Bootstrap -->
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img align="left" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/main/assets/images/languages/bootstrap.png" alt="Bootstrap" height="42px"/>
-  </a>
-
-  <!-- jQuery -->
-  <a href="https://jquery.com/" target="_blank">
-    <img align="left" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/main/assets/images/languages/jquery.png" alt="jQuery" height="42px"/>
-  </a>
-
-  <!-- Java -->
-  <a href="https://www.java.com/" target="_blank">
-    <img align="left" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/main/assets/images/languages/java.png" alt="Java" height="42px"/>
-  </a>
-
-  <!-- HTML -->
-  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank">
-    <img align="left" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/main/assets/images/languages/html.png" alt="HTML" height="42px"/>
-  </a>
-
-  <!-- CSS -->
-  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">
-    <img align="left" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/main/assets/images/languages/css.png" alt="CSS" height="42px"/>
-  </a>
-
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
-    <img align="left" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/main/assets/images/languages/javascript.png" alt="JavaScript" height="42px"/>
-  </a>
-</p>
-
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,c,cs,php,unity,laravel,jquery,java)](https://skillicons.dev)
 
 <br>
 <br>
