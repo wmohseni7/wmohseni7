@@ -97,6 +97,8 @@ https://streak-stats.demolab.com/api?username=wmohseni7&show_icons=true&theme=da
 |---|---| 
 
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 
 
 
