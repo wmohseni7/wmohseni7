@@ -29,7 +29,7 @@ J'adore créer des applications web, mais je ne me limite jamais à un seul doma
 <br>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,c,php,csharp,unity,laravel,jquery,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,c,php,cs,unity,laravel,jquery,java)](https://skillicons.dev)
 
 
   <!-- PHP -->
