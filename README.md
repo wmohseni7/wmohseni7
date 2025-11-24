@@ -46,7 +46,7 @@ J'adore créer des applications web, mais je ne me limite jamais à un seul doma
 |---|---| 
 
 ![GitHub stats](https://github-readme-stats-mu-taupe.vercel.app/api?username=wmohseni7&show_icons=true&theme=dracula&border_radius=10&card_height=200&card_width=500)
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=wmohseni7&theme=dracula&border_radius=10&card_width=500&card_height=195&hide_current_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=wmohseni7&theme=dracula&border_radius=10&card_width=500&card_height=193&hide_current_streak=true)](https://git.io/streak-stats)
 
 
 
