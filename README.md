@@ -48,7 +48,7 @@ J'adore créer des applications web, mais je ne me limite jamais à un seul doma
 <br>
 
 ### 🛠️ Mes projets
-<div align="center">
+<div align="center" style= "display:inline">
   <a href="https://github.com/wmohseni7/ConstructionRealStateAgency" target="_blank">
     <img alt="ConstructionRealStateAgency" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/main/assets/images/projects/construction.png" height="100px">
     <p>Construction Company</p>
