@@ -50,8 +50,10 @@ J'adore créer des applications web, mais je ne me limite jamais à un seul doma
 ### 🛠️ Mes projets
 <a href="https://github.com/wmohseni7/ConstructionRealStateAgency" target="_blank">
   <img alt="ConstructionRealStateAgency" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/main/assets/images/projects/construction.png" height="100px">
+  <h1>Contruction company project</h1>
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/wmohseni7/Polar-Bear" target="_blank">
   <img alt="ConstructionRealStateAgency" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/main/assets/images/projects/PolarBear-logo.png" height="100px">
+  <h1>Polar Design</h1>
 </a>
