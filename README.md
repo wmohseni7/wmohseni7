@@ -47,7 +47,7 @@ J'adore créer des applications web, mais je ne me limite jamais à un seul doma
 
 <br>
 
-###<h2> 🛠️ Mes projets</h2>
+### <h2> 🛠️ Mes projets</h2>
 
 
 <div align="center" style= "display:inline">
