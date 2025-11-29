@@ -24,7 +24,7 @@ J'adore créer des applications web, mais je ne me limite jamais à un seul doma
 <br>
 <br>
 
-### 🔨 langages et outils:
+### <h2>🔨 langages et outils:</h2>
 
 <br>
 <br>
