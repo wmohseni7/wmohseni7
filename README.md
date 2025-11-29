@@ -9,9 +9,9 @@ J'adore créer des applications web, mais je ne me limite jamais à un seul doma
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/main/assets/images/06f21a161921919.63cd7887d0a70.gif" width="430px"/>
   
-### <h2>🧐 Plus d'information sur moi:</h2>
+### <h2>🧐 Plus d'information sur moi: </h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/main/assets/images/06f21a161921919.63cd7887d0a70.gif" width="430px"/>
 
 - 🤝 &nbsp; Je travaille actuellement sur un projet de jeu Unity dans le cadre de mon troisième semestre d'études.
 - 🌱 &nbsp; J'apprends actuellement le Java ;
