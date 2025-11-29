@@ -56,6 +56,6 @@ J'adore créer des applications web, mais je ne me limite jamais à un seul doma
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/wmohseni7/Polar-Bear" target="_blank">
-    <img alt="ConstructionRealStateAgency" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/main/assets/images/projects/PolarBear-logo.png" height="100px">
+    <img alt="ConstructionRealStateAgency" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/main/assets/images/projects/freepik__arctic-research-base-inspired-by-concordia-two-lar__41402.png" height="100px">
   </a>
 </div>
