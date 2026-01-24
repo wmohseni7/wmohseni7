@@ -58,4 +58,7 @@ J'adore créer des applications web, mais je ne me limite jamais à un seul doma
   <a href="https://github.com/wmohseni7/Polar-Design" target="_blank">
     <img alt="ConstructionRealStateAgency" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/main/assets/images/projects/Asset 3@2x.png" height="100px">
   </a>
+  <a href="https://github.com/wmohseni7/2048" target="_blank">
+    <img alt="ConstructionRealStateAgency" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/main/assets/images/projects/2048.png" height="100px">
+  </a>
 </div>
