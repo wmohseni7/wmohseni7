@@ -9,7 +9,23 @@ J'adore créer des applications web, mais je ne me limite jamais à un seul doma
 <br/>
 <br/>
 
-  
+### <h2>✅ Pour t'aider à finir ton TP de testing (projet déjà existant)</h2>
+
+Pour que je puisse t'aider efficacement, envoie-moi simplement :
+
+- Le lien du repo (ou la structure des dossiers principaux) ;
+- Le langage/framework utilisé (ex: Java/Spring, JS/React, PHP/Laravel, etc.) ;
+- Le framework de tests attendu dans le TP (JUnit, Jest, PyTest, etc.) ;
+- L'énoncé exact du TP et les critères d'évaluation ;
+- L'état actuel des tests (commande à lancer + erreurs obtenues) ;
+- Les parties du code que tu dois tester en priorité.
+
+Avec ça, je peux te proposer un plan clair, écrire/compléter les tests avec toi, puis t'aider à corriger les échecs un par un.
+
+<br/>
+<br/>
+
+   
 ### <h2>🧐 Plus d'information sur moi: </h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/main/assets/images/06f21a161921919.63cd7887d0a70.gif" width="430px"/>
 
