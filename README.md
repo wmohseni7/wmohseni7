@@ -9,7 +9,7 @@ J'adore créer des applications web, mais je ne me limite jamais à un seul doma
 <br/>
 <br/>
 
-### <h2>✅ Aide TP testing (StockageIngredient, Pâtisserie, Inventaire)</h2>
+## ✅ Aide TP testing (StockageIngredient, Pâtisserie, Inventaire)
 
 Pour ton nouveau besoin, je peux t'aider à produire **tout le livrable** (fiches de test, doublures, tests unitaires/intégration, discussion de couverture).
 
@@ -23,6 +23,7 @@ Pour avancer vite et proprement, il me faut :
 
 Points déjà visibles dans l'extrait partagé :
 
+- `Ingredient` est une classe abstraite avec `getTempsMelange(Long)` : les tests devront donc passer par une implémentation concrète (ou un Stub dédié) ;
 - `StockageIngredient.compare(StockageIngredient)` doit comparer le prix avec `equals` et non `==` ;
 - Le test fourni contient des incohérences de structure (classe `GestionQuantite` dupliquée, accolades déséquilibrées, constructeur `IngredientStub` incohérent avec l'appel).
 
