@@ -9,18 +9,31 @@ J'adore créer des applications web, mais je ne me limite jamais à un seul doma
 <br/>
 <br/>
 
-### <h2>✅ Pour t'aider à finir ton TP de testing (projet déjà existant)</h2>
+### <h2>✅ Aide TP testing (StockageIngredient, Pâtisserie, Inventaire)</h2>
 
-Pour que je puisse t'aider efficacement, envoie-moi simplement :
+Pour ton nouveau besoin, je peux t'aider à produire **tout le livrable** (fiches de test, doublures, tests unitaires/intégration, discussion de couverture).
 
-- Le lien du repo (ou la structure des dossiers principaux) ;
-- Le langage/framework utilisé (ex: Java/Spring, JS/React, PHP/Laravel, etc.) ;
-- Le framework de tests attendu dans le TP (JUnit, Jest, PyTest, etc.) ;
-- L'énoncé exact du TP et les critères d'évaluation ;
-- L'état actuel des tests (commande à lancer + erreurs obtenues) ;
-- Les parties du code que tu dois tester en priorité.
+Pour avancer vite et proprement, il me faut :
 
-Avec ça, je peux te proposer un plan clair, écrire/compléter les tests avec toi, puis t'aider à corriger les échecs un par un.
+- Le repo exact du projet Java concerné (pas seulement l'énoncé) ;
+- Le contenu actuel des classes : `Ingredient`, `StockageIngredient`, `Patisserie`, `Inventaire`, `Vanille`, `Eau`, `TypeIngredient`, `EtatIngredient` ;
+- Le fichier de build (`pom.xml` ou `build.gradle`) et la version de JUnit ;
+- Les consignes de notation (ex: couverture minimale, format des fiches de test, tests paramétrés obligatoires ou non) ;
+- Le résultat actuel de `mvn test` (ou `gradle test`) avec les erreurs.
+
+Points déjà visibles dans l'extrait partagé :
+
+- `StockageIngredient.compare(StockageIngredient)` doit comparer le prix avec `equals` et non `==` ;
+- Le test fourni contient des incohérences de structure (classe `GestionQuantite` dupliquée, accolades déséquilibrées, constructeur `IngredientStub` incohérent avec l'appel).
+
+Dès que tu m'envoies les fichiers du projet, je te renvoie une version complète et exécutable :
+
+- fiches de tests (unitaires + intégration) pour les 3 classes ;
+- choix des doublures (**Dummy / Stub / Spy**) test par test ;
+- code des doublures ;
+- fournisseurs d'arguments pour tests paramétrés ;
+- implémentation JUnit ;
+- synthèse couverture de code et couverture de cas/scénarios.
 
 <br/>
 <br/>
