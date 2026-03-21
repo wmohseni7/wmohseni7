@@ -9,7 +9,37 @@ J'adore créer des applications web, mais je ne me limite jamais à un seul doma
 <br/>
 <br/>
 
-  
+## ✅ Aide TP testing (StockageIngredient, Pâtisserie, Inventaire)
+
+Pour ton nouveau besoin, je peux t'aider à produire **tout le livrable** (fiches de test, doublures, tests unitaires/intégration, discussion de couverture).
+
+Pour avancer vite et proprement, il me faut :
+
+- Le repo exact du projet Java concerné (pas seulement l'énoncé) ;
+- Le contenu actuel des classes : `Ingredient`, `StockageIngredient`, `Patisserie`, `Inventaire`, `Vanille`, `Eau`, `TypeIngredient`, `EtatIngredient` ;
+- Le fichier de build (`pom.xml` ou `build.gradle`) et la version de JUnit ;
+- Les consignes de notation (ex: couverture minimale, format des fiches de test, tests paramétrés obligatoires ou non) ;
+- Le résultat actuel de `mvn test` (ou `gradle test`) avec les erreurs.
+
+Points déjà visibles dans l'extrait partagé :
+
+- `Ingredient` est une classe abstraite avec `getTempsMelange(Long)` : les tests devront donc passer par une implémentation concrète (ou un Stub dédié) ;
+- `StockageIngredient.compare(StockageIngredient)` doit comparer le prix avec `equals` et non `==` ;
+- Le test fourni contient des incohérences de structure (classe `GestionQuantite` dupliquée, accolades déséquilibrées, constructeur `IngredientStub` incohérent avec l'appel).
+
+Dès que tu m'envoies les fichiers du projet, je te renvoie une version complète et exécutable :
+
+- fiches de tests (unitaires + intégration) pour les 3 classes ;
+- choix des doublures (**Dummy / Stub / Spy**) test par test ;
+- code des doublures ;
+- fournisseurs d'arguments pour tests paramétrés ;
+- implémentation JUnit ;
+- synthèse couverture de code et couverture de cas/scénarios.
+
+<br/>
+<br/>
+
+   
 ### <h2>🧐 Plus d'information sur moi: </h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/main/assets/images/06f21a161921919.63cd7887d0a70.gif" width="430px"/>
 
