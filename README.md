@@ -1,11 +1,11 @@
 <!--![My Banner](https://github.com/wmohseni7/wmohseni7/blob/main/assets/images/banner.gif)-->
 ![My Banner](https://github.com/wmohseni7/wmohseni7/blob/main/assets/images/banner2.gif)
 <!-- <img align="right" alt="GIF" src="[https://raw.githubusercontent.com/wmohseni7/wmohseni7/blob/main/assets/images/banner.gif" width="430px"/> -->
-## <h1>Salut, je suis Enigma !</h1>
+## <h1>Salut, Moi c'est Enigma !</h1>
 
-Bonjour, je suis développeur et je m'efforce de tirer le meilleur parti de chaque projet.
+Je suis développeur informatique et je m'efforce de tirer le meilleur parti de chaque projet.
 
-J'adore créer des applications web, mais je ne me limite jamais à un seul domaine : j'explore constamment de nouvelles technologies et je perfectionne mes compétences.
+J'adore créer des applications web et mobile mais je ne me limite jamais à un seul domaine : j'explore constamment de nouvelles technologies et je perfectionne mes compétences.
 <br/>
 <br/>
 
