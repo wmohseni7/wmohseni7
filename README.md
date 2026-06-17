@@ -64,4 +64,7 @@ J'adore créer des applications web, mais je ne me limite jamais à un seul doma
   <a href="https://github.com/wmohseni7/Battleship" target="_blank">
     <img alt="Battleship" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/main/assets/images/projects/battleship.png" height="100px">
   </a>
+  <a href="https://github.com/wmohseni7/Battleship](https://github.com/wmohseni7/Librairie" target="_blank">
+    <img alt="Library" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/main/assets/images/projects/battleship.png" height="100px">
+  </a>
 </div>
