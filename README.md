@@ -29,7 +29,7 @@ J'adore créer des applications web et mobile mais je ne me limite jamais à un 
 <br>
 <br>
     
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,c,cs,jquery,php,unity,laravel,java,ai,ps)]()
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,c,cs,jquery,php,unity,laravel,java,ts,docker,express,git,nodejs,prisma,ai,ps)]()
 
 
 <br>
