@@ -14,9 +14,8 @@ J'adore créer des applications web et mobile mais je ne me limite jamais à un 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/wmohseni7/wmohseni7/main/assets/images/06f21a161921919.63cd7887d0a70.gif" width="430px"/>
 
 - 🤝 &nbsp; Je suis en train d'apprendre le développement mobile (Android) et le developpement fullstack.
-- 🌱 &nbsp; J'apprends actuellement le Java ;
+- 🌱 &nbsp; J'apprends actuellement fastify sur node.js;
 - 👨🏻‍💻 &nbsp; Mes projets personnels sont disponible sur: [Github](https://github.com/wmohseni7?tab=repositories)
-- 💬 &nbsp; N'hésitez pas à me poser des questions sur tout ce qui touche à la technologie, je serai ravi de vous aider;
 
 <br>
 <br>
